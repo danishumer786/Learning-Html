@@ -4,7 +4,35 @@ h1{
 }
 
 
-<!-- Basics of CSS.
- First you need to write CSS in a separate file name it as style.css 
-then link it with html file which you want to desing.
-for linking go to the <head></head> and wite <link rel="stylesheet href=style.css"> -->
+p{
+    color:green;
+    background-color: white;
+}
+
+button{
+    color:yellow;
+    background-color: black;
+}
+
+
+<!-- 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css"
+</head>
+<body>
+    <h1> Danish Umer</h1>
+    <h1> Mohammmed</h1>
+    <h1>Khan</h1>
+
+
+    <p>This is paragraph p1</p>
+    <p>This is paragraph p2</p>
+
+    <button>submit</button>
+</body>
+</html>
+
+-->
