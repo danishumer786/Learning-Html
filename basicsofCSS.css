@@ -1,0 +1,10 @@
+h1{
+    color:brown;
+    background-color:white;
+}
+
+
+<!-- Basics of CSS.
+ First you need to write CSS in a separate file name it as style.css 
+then link it with html file which you want to desing.
+for linking go to the <head></head> and wite <link rel="stylesheet href=style.css"> -->
